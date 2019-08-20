@@ -1,0 +1,36 @@
+file	name	description	length	singlecopy	ubiquity
+TIGR00029	S20	ribosomal protein bS20	87	93.70	94.07
+TIGR00059	L17	ribosomal protein bL17	112	94.49	94.98
+TIGR00061	L21	ribosomal protein bL21	101	94.64	95.12
+TIGR00158	L9	ribosomal protein bL9	148	93.82	94.47
+TIGR00717	rpsA	ribosomal protein bS1	516	79.83	84.16
+TIGR00755	ksgA	ribosomal RNA small subunit methyltransferase A	256	92.86	93.24
+TIGR01009	rpsC_bact	ribosomal protein uS3	212	92.63	93.16
+TIGR01011	rpsB_bact	ribosomal protein uS2	225	94.36	95.43
+TIGR01017	rpsD_bact	ribosomal protein uS4	200	91.81	94.87
+TIGR01021	rpsE_bact	ribosomal protein uS5	156	93.49	93.79
+TIGR01029	rpsG_bact	ribosomal protein uS7	154	90.83	91.15
+TIGR01032	rplT_bact	ribosomal protein bL20	114	94.97	95.43
+TIGR01044	rplV_bact	ribosomal protein uL22	103	91.95	92.25
+TIGR01066	rplM_bact	ribosomal protein uL13	141	95.00	95.40
+TIGR01071	rplO_bact	ribosomal protein uL15	144	93.69	94.10
+TIGR01079	rplX_bact	ribosomal protein uL24	104	92.96	93.32
+TIGR01164	rplP_bact	ribosomal protein uL16	126	92.67	93.15
+TIGR01171	rplB_bact	ribosomal protein uL2	275	92.19	92.63
+TIGR01632	L11_bact	ribosomal protein uL11	140	90.59	91.05
+TIGR03625	L3_bact	50S ribosomal protein uL3	202	92.46	92.82
+TIGR03632	uS11_bact	ribosomal protein uS11	117	92.51	92.85
+TIGR03654	L6_bact	ribosomal protein uL6	175	92.77	93.07
+TIGR03953	rplD_bact	50S ribosomal protein uL4	188	92.45	92.80
+TIGR01063	gyrA	DNA gyrase, A subunit	800	89.22	90.85
+TIGR00344	alaS	alanine--tRNA ligase	847	93.06	94.16
+TIGR00459	aspS_bact	aspartate--tRNA ligase	586	88.76	91.67
+TIGR00396	leuS_bact	leucine--tRNA ligase	843	93.02	95.23
+TIGR00442	hisS	histidine--tRNA ligase	406	92.20	94.47
+TIGR00967	3a0501s007	preprotein translocase, SecY subunit	414	92.94	93.85
+TIGR00663	dnan	DNA polymerase III, beta subunit	367	89.53	94.52
+PF01025.14	GrpE	GrpE	166	88.70	96.47
+TIGR01391	dnaG	DNA primase	414	90.57	95.60
+PF00380.14	S9	Family: Ribosomal_S9	-1	100	100
+PF00410.14	S8	Ribosomal protein S8	-1	100	100
+PF00466.15	L10	Ribosomal protein L10	-1	100	100
