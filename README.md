@@ -39,9 +39,9 @@ And the list goes on. (If you have a special addition, open a pull request!) The
 
 However, it is also important to address the analysis that was performed. Here, I replicate the analysis using genomes from a standardized bacterial taxonomy (GTDB) and find a similar effect as the authors originally observed. There are then two hypotheses that can be tested:
 
-A. The effect observed is due to poor quality and contamination due to inaccurate binning in metagenomes assembled genomes.
-
-B. The effect observed is due to differences in the phylogenetic distribution of genomes from metagenomes vs isolate genomes. 
+>A. The effect observed is due to poor quality and contamination due to inaccurate binning in metagenomes assembled genomes.
+>
+>B. The effect observed is due to differences in the phylogenetic distribution of genomes from metagenomes vs isolate genomes. 
 
 **Here, I conduct a reproducible analysis that shows (B) entirely explains the differences observed. The phylogenetic 'anomaly' observed is entirely a function of the differences in phylogenetic distributions of metagenome assembled genomes and isolate genomes, and when controlled for, this effect disappears and metagenome assembled genomes have similar results to isolate genomes.**
 
