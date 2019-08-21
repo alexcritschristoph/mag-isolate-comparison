@@ -27,7 +27,7 @@ They use this finding to make two claims, which can most charitably be summarize
 
 2. [Dozens (hundreds?) of single cell amplified genomes](https://www.nature.com/articles/s41564-017-0098-y) exist for the Candidate Phyla Radiation. 
 
-3. Dozens of [completed metagenome assembled genomes](https://www.nature.com/articles/nature14486) exist for the CPR. These are genomes that assembled in a single contig directly from a metagenome. (there are 45 such genomes currently listed in GTDB).
+3. Dozens of [completed metagenome assembled genomes](https://www.nature.com/articles/nature14486) exist for the CPR. These are genomes that assembled in a single contig directly from a metagenome. (there are 45 such CPR genomes currently listed in GTDB).
 
 4. [Previous direct comparisons](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0550-0) of single cell genomes and metagenome assembled genomes have shown good parity. 
 
