@@ -1,3 +1,8 @@
+## Genomes from metagenomes have similar phylogenetic behavior compared with isolate genomes
+
+![histogram comparison](https://github.com/alexcritschristoph/mag-isolate-comparison/raw/master/fig.png)
+
+
 To run this notebook, you'll want to download the files:
 `bac120_metadata_r89.tsv`
 `bac120_msa_individual_genes_r89.tar.gz`
@@ -5,7 +10,6 @@ To run this notebook, you'll want to download the files:
 from the GTDB server:
 https://data.ace.uq.edu.au/public/gtdb/data/releases/release89/89.0/
 
-## Genomes from metagenomes have similar phylogenetic behavior compared with isolate genomes
 
 Recently a BioRxiv preprint entitled "Anomalous phylogenetic behavior of ribosomal proteins in metagenome assembled genomes" reported a seemingly straight-forward analysis. They picked sets of 30 isolate microbial genomes and sets of 30 genomes assembled from metagenomes, and created phylogenetic trees for each set using each single copy gene. They then compared the differences between all of the SGC trees created for each set, and found that trees of genomes from metagenomes consistently were more different than trees of isolate genomes. Please note that they observe the pattern for *all metagenome assembled genomes they test, not just specific novel clades* - this is a point of confusion that is not made very clear by the preprint itself. 
 
